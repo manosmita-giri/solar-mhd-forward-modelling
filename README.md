@@ -29,6 +29,15 @@ Ongoing master's thesis research.
 ## Research integrity and data availability
 
 This repository is intended to document the project and share approved, reproducible code and analysis. Simulation data, unpublished results, and thesis material will be added only when their release is permitted by the relevant supervisor and data-use requirements.
+## Research workflow
+
+The project involves the following stages:
+
+1. **Simulation-data analysis:** Examine relevant physical variables from radiative MHD simulations.
+2. **Radiative-transfer diagnostics:** Investigate optical depth and Hα line-wing formation.
+3. **Forward modelling:** Analyse how velocity and thermodynamic conditions influence the diagnostic features.
+4. **Scientific visualisation:** Use Python to generate plots and interpret the resulting diagnostics.
+5. **Validation and interpretation:** Compare diagnostic behaviour across simulation outputs and assess the physical interpretation.
 
 ## Author
 
